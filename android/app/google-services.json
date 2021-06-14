@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "909579298113",
+    "project_id": "clockdo-app",
+    "storage_bucket": "clockdo-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:909579298113:android:e93da58bf63416fae02dc0",
+        "android_client_info": {
+          "package_name": "com.beansnation.todo_test_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "909579298113-a87odna6jpia2va0eh0aepcgf2ld1imo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA5ssn_YwyD4qCHwcbORcVwzxF1g9A6J_s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "909579298113-a87odna6jpia2va0eh0aepcgf2ld1imo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
